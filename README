@@ -17,3 +17,5 @@
 
    "Live demo": http://pocoo.org/~mitsuhiko/webglmc/
 
+fxaa 后处理demo，目前来看后处理对比较细的线不太友好，对面的边缘有一定的优化。
+另外一个demo https://github.com/mattdesl/glsl-fxaa
